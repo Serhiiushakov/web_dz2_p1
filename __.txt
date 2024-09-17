@@ -1,0 +1,6 @@
+D:\Visual_Studio_Code\25_web_dz_2\my_project> poetry shell
+Virtual environment already activated: C:\Users\notebook7765\AppData\Local\pypoetry\Cache\virtualenvs\my-project-fZkjFzIx-py3.12
+(my-project-py3.12) PS D:\Visual_Studio_Code\25_web_dz_2\my_project> poetry install
+Installing dependencies from lock file
+
+Installing the current project: my-project (0.1.0)
